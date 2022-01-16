@@ -1,0 +1,18 @@
+.link{
+        border: none;
+        padding: 10px 15px;
+        color:black;
+        font-size: 16px;
+        transition: 0.5s;
+        text-decoration: none;
+        margin-left: 10px;
+        border-radius: 3px;
+}
+.link:hover{
+    background-color:#a6c311;
+    color: #fff;
+}
+.header{
+    background-color: rgb(255,255,255);
+    backdrop-filter: blur(40px);
+}

@@ -1,0 +1,12 @@
+
+.slide h3{
+    color:#e0e0da;
+}
+.slide p{
+    padding: 10px;
+    border-radius: 5px;
+}
+.img-slide{
+    width:100%;
+    height:85vh;
+}

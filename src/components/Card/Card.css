@@ -1,0 +1,11 @@
+.card-style{
+    box-shadow: 0 0 5px rgb(0,0,0,0.5);
+    
+}
+.card-style img{
+    width: 100%;
+    height:220px;
+}
+.card-info{
+    padding: 10px;
+}
